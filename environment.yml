@@ -1,0 +1,10 @@
+name: playground2
+#channels:
+#  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - statsmodels
+  - seaborn
+  - pystan
+  - jupyter
